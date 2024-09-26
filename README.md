@@ -4,11 +4,11 @@
 ```
 ## Demo App
 
-[![Streamlit App]((https://iktsemesteraufgabe-j4djtx24cp8hbadehnzzapp.streamlit.app/))
+Streamlit App:(https://iktsemesteraufgabe-j4djtx24cp8hbadehnzzapp.streamlit.app/)
 
 ## GitHub Codespaces
 
-Open in GitHub Codespaces:(https://github.com/elsa-1999/IKT_SemesterAufgabe.git))
+Open in GitHub Codespaces:(https://github.com/elsa-1999/IKT_SemesterAufgabe.git)
 
 ## Section Heading
 
