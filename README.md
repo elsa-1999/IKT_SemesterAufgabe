@@ -8,7 +8,7 @@
 
 ## GitHub Codespaces
 
-[![Open in GitHub Codespaces](https://github.com/codespaces/badge.svg)](https://codespaces.new/streamlit/app-starter-kit?quickstart=1)
+Open in GitHub Codespaces:(https://github.com/elsa-1999/IKT_SemesterAufgabe.git))
 
 ## Section Heading
 
