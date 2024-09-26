@@ -1,7 +1,6 @@
 import streamlit as st
 import pandas as pd
 import joblib
-from sklearn.preprocessing import StandardScaler
 
 # Load the saved model and encoders
 model = joblib.load('models/linear_model.pkl')
