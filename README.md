@@ -2,6 +2,20 @@
 ```
 ⬆️ popularity of Instagram posts
 ```
+## Demo App
+
+[![Streamlit App]((https://iktsemesteraufgabe-j4djtx24cp8hbadehnzzapp.streamlit.app/))
+
+## GitHub Codespaces
+
+[![Open in GitHub Codespaces](https://github.com/codespaces/badge.svg)](https://codespaces.new/streamlit/app-starter-kit?quickstart=1)
+
+## Section Heading
+
+-Some installations needed for the Project:
+-anaconda--> to Access jupyter noteBook
+-pyCharm --> use to create the streamlite app
+
 
 Instagram Post Popularity Prediction
 
@@ -82,12 +96,12 @@ Hyperparameter tuning was performed using Grid Search for the regularization mod
 
 6.1. Performance Metrics
 Models were evaluated using the R-squared score and RMSE (Root Mean Squared Error):
-- Random Forest: R²=__
-- Linear Regression: R² = _
-- Ridge Regression: R² =__ 
-- Lasso Regression: R² = _
+- Random Forest: R²= 0.5761910878925839
+- Linear Regression: R² = 0.8901797240242584
+- Ridge Regression: R² = 0.8017012859106458 
+- Lasso Regression: R² = 0.8754304440551823
 
-Based on the results, Linear Regression provided the best performance with an R² of _.
+Based on the results, Linear Regression provided the best performance with an R² of 0.8901797240242584.
 
 6.2. Model Tuning
 Hyperparameter tuning was performed for Ridge and Lasso regressions, but neither surpassed the performance of the 
@@ -104,12 +118,12 @@ A Streamlit app was created to allow users to upload new Instagram post data and
 
 8. Conclusion
 
-The linear regression model was the best-performing model for predicting Instagram post popularity, with an R² of _. This shows a good ability to generalize on new data but leaves room for improvement.
+The linear regression model was the best-performing model for predicting Instagram post popularity, with an R² of 0.8901797240242584. This shows a good ability to generalize on new data but leaves room for improvement.
 
 8.1. Key Insights:
 - Video View Count: Strong predictor of likes.
 - Post Type: Categorical variable that impacts engagement, with certain product types receiving more likes.
-- Hour: 
+- Hour 
 
 
 9. Future Work
@@ -120,23 +134,9 @@ Further improvements can be made by:
 2. Exploring More Complex Models: Testing advanced models like Neural Networks could enhance prediction accuracy.
 3. Hyperparameter Optimization: More exhaustive hyperparameter tuning might improve the regularized models (Ridge/Lasso).
 
-## Demo App
 
-[![Streamlit App]([https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://app-starter-kit.streamlit.app/](https://iktsemesteraufgabe-j4djtx24cp8hbadehnzzapp.streamlit.app/))
+## Sources
 
-## GitHub Codespaces
-
-[![Open in GitHub Codespaces](https://github.com/codespaces/badge.svg)](https://codespaces.new/streamlit/app-starter-kit?quickstart=1)
-
-## Section Heading
-
--Some installations needed for the Project:
--anaconda--> to Access jupyter noteBook
--pyCharm --> use to create the streamlite app
-
-## Further Reading
-
-This is filler text, please replace this with a explanatory text about further relevant resources for this repo
 - Die Vorlesung
 - Chatgpt
 - https://youtu.be/xBDdZTBDhgk?si=LOrh8N18Yn8FC0lx
